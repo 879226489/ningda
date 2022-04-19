@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/hz-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lc-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/official-website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/official-website-node" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/provincial-bureau-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yw-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yw-project-mobile" vcs="Git" />
+  </component>
+</project>
